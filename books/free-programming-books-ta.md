@@ -9,6 +9,7 @@
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
 * [JavaScript](#javascript)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
@@ -42,18 +43,18 @@
 
 ### Git Github
 
-* [எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamizhil_git/) - கி. முத்துராமலிங்கம் (PDF)
+* [எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamizhil_git/) - கி.முத்துராமலிங்கம் (PDF)
 
 
 ### Hadoop
 
-* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil) - து. நித்யா (PDF)
+* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil) - து.நித்யா (PDF)
 
 
 ### HTML and CSS
 
-* [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - Kaniyam Foundation (PDF)
-* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) = Th . Srinivasan (PDF)
+* [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - து.நித்யா (PDF)
+* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) - த.சீனிவாசன் (PDF)
 * [எளிய தமிழில் HTML](https://noolaham.net/project/51/5090/5090.pdf) - வே.நவமோகன் (PDF)
 
 
@@ -68,10 +69,16 @@
 * [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச. குப்பன் (PDF)
 
 
+### Linux
+
+* [எளிய தமிழில் GNU/Linux - பாகம் - 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU/Linux - பாகம் - 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
+
+
 ### Machine Learning
 
-* [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து. நித்யா (PDF)
-* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
+* [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து.நித்யா (PDF)
+* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து.நித்யா (PDF)
 
 
 ### MySQL
@@ -82,7 +89,7 @@
 
 ### Pandas Python
 
-* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/) - து. நித்யா (PDF)
+* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/) - து.நித்யா (PDF)
 
 
 ### PHP
